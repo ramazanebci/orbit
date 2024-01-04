@@ -1,5 +1,4 @@
 <img src="https://www.orbit.cloud/img/orbit-logo-black.png" alt="Orbit Logo" width="200px"/>
-
 [![Build Status](https://github.com/orbit/orbit/workflows/Build%20Orbit/badge.svg)](https://github.com/orbit/orbit/actions)
 [![Release](https://img.shields.io/github/release/orbit/orbit.svg)](https://github.com/orbit/orbit/releases)
 [![Maven Central](https://img.shields.io/maven-central/v/cloud.orbit/orbit-server.svg)](https://repo1.maven.org/maven2/cloud/orbit/)
